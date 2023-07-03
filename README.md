@@ -1,6 +1,6 @@
 I like making things.
 
-<img src="https://media.tenor.com/QUBPZeyDfbQAAAAd/bocchi-bocchi-the-rock.gif" height="319" width="278">
+<img src="https://media.tenor.com/QUBPZeyDfbQAAAAd/bocchi-bocchi-the-rock.gif" height="278" width="319">
 
 <!---
 xFottotex/xFottotex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
