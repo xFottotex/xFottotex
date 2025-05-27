@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">I'm Fottotex or (Fotto, Foto, Foti) from Poland 🇲🇨 (That's the flag of Monaco, you stoopid) <br><br>- I’m working as unemployed because the nobility doesn't work<br>- I'm currently learning Japanese<br>- In my free time I draw, play games and watch anime</p>
+<p align="left">I'm Fotttotex or (Fotto, Foto, Foti) from Poland 🇲🇨 (That's the flag of Monaco, you stoopid) <br><br>- I’m working as unemployed because the nobility doesn't work<br>- I'm currently learning Japanese<br>- In my free time I draw, play games and watch anime</p>
 
 ###
 
